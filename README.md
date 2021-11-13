@@ -3,6 +3,11 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://raw.githubusercontent.com/SylkEdu/SylkEdu/ff9c59714269b345d934a5e3465fdda1405ecc2a/welcome.gif)
 
   ## Olá, meu nome é Paulo Eduardo e seja bem vindo!
+ 
+- 👨 Atualmente Tenho 20 Anos.
+- 💻 Estudando Python.
+- 📖 Cursando Sistemas De Informação Na UFMS.
+ 
 <div align="center">
   <a href="https://github.com/SylkEdu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SylkEdu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
