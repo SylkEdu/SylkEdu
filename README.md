@@ -2,11 +2,12 @@
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://raw.githubusercontent.com/SylkEdu/SylkEdu/ff9c59714269b345d934a5e3465fdda1405ecc2a/welcome.gif)
 
-  ## Olá, meu nome é Paulo Eduardo e seja bem vindo!
+  ## Hello, my name is Paulo Eduardo and welcome!!
  
-- 👨 Atualmente Tenho 20 Anos.
-- 💻 Estudando Python.
-- 📖 Cursando Sistemas De Informação Na UFMS.
+- 👨 I'm 23 years old.
+- 💻 Passionate about IoT, tech, and programming. Enjoys gaming and stays updated on game development in spare time.
+- 📖 Studying Information Systems at UFMS.
+- 💼 Information Systems Programmer/Web Developer on <a href="https://atalayas.com.br/" target="_blank">Atalayas</a>
  
 <div align="center">
   <a href="https://github.com/SylkEdu">
@@ -20,7 +21,7 @@
   <img align="center" alt="html-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">--->
-  <img align="right" alt="Sylk-profile" height="150" style="border-radius:100px;" src="https://github.com/SylkEdu/SylkEdu/blob/ff9c59714269b345d934a5e3465fdda1405ecc2a/profile1.png?raw=true">
+  <img align="right" alt="Sylk-profile" height="150" style="border-radius:100px;" src="https://github.com/SylkEdu/SylkEdu/blob/ff9c59714269b345d934a5e3465fdda1405ecc2a/profile6.png?raw=true">
 </div>
   
   ##
